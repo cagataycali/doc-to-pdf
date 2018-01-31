@@ -1,0 +1,10 @@
+{
+  "name": "doc-to-pdf",
+  "version": "1.0.0",
+  "description": "Small package for generate PDF file with other document types",
+  "main": "index.js",
+  "repository": "git@github.com:cagataycali/doc-to-pdf.git",
+  "author": "Çağatay Çalı",
+  "license": "MIT",
+  "private": false
+}
