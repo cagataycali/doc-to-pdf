@@ -1,4 +1,4 @@
-# doc-to-pdf
+**doc-to-pdf**
 
 > This package generate PDF files from documents.
 
@@ -31,4 +31,5 @@ const P = require('doc-to-pdf')
 
 
 *Cheers.*
+
 **Çağatay.**
