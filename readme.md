@@ -1,6 +1,7 @@
 **doc-to-pdf**
 
-> This package generate PDF files from documents.
+> This package generate PDF files from documents.  
+Need [LibreOffice](https://libreoffice.org) installed.
 
 *Tested:*
  - doc
